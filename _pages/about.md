@@ -57,3 +57,13 @@ I'm currently a Research Assistant at [HKUST Intelligent Transportation Systems 
 - 2024-12-16: A first-author paper is accepted at AAMAS 2025 (acceptance rate=25%).
 - 2024-01-31: A first-author work is accepted at ICRA 2024.
 - 2023-12-30: I finished my MPhil CSE at HKUST.
+
+### Hobbies
+I love reading books during commute times. Currently I am reading the following books
+- Thinking Fast and Slow
+- The Psychology of Money
+- The Elements of Programming Style
+- Called to Greatness
+
+Finished:
+- Growing Deep in Faith
