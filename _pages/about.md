@@ -59,7 +59,7 @@ I'm currently a Research Assistant at [HKUST Intelligent Transportation Systems 
 - 2023-12-30: I finished my MPhil CSE at HKUST.
 
 ### Hobbies
-I love reading books during commute times. Currently I am reading the following books
+I love reading books during commute times. Currently I am reading the following books:
 - Thinking Fast and Slow
 - The Psychology of Money
 - The Elements of Programming Style
