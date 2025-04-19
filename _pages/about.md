@@ -1,3 +1,4 @@
+<!--
 ---
 permalink: /
 title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
@@ -47,3 +48,6 @@ Example: editing a markdown file for a talk
 For more info
 ------
 More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+-->
+
+I'm currently a Research Assistant at HKUST Intelligent Transportation Lab led by Prof. Hong Lo. I obtained my MPhil at HKUST advised by Tong Zhang. Broadly, my research interests are in applications of AI to engineering. Specifically, I am interested in transporation, computer vision, and uncertainty quantification.
