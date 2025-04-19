@@ -21,7 +21,7 @@ repository               : "paathelb/paathelb.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "grad_photo.jpg"
   name             : "Helbert Paat"
   pronouns         : "he/his"  
   bio              : "Research Assistant"
