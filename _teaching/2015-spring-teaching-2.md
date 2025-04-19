@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "CSE Department, HKUST"
-date: 2022 Fall
+date: 2022-09-01
 location: "Hong Kong SAR, China"
 ---
 
