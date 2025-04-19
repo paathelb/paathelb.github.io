@@ -16,14 +16,14 @@ Education
 
 Work experience
 ======
-* Fall 2015: Research Assistant
+* Spring 2025: Research Assistant
   * HKUST
-  * Duties included: workin on taxi profitability using machine learning and AI
-  * Supervisor: Professor Hong Lo
+  * Duties included: use real-time data to give drivers AI assistance insights map which suggests locations with probable maximised trip profitability
+  * Supervisor: Prof. Hong Lo
 
-* Spring 2024: Research Assistant
+* Spring-Fall 2024: Research Assistant
   * Hong Kong Polytechnic University
-  * Duties includes: Updates and improvements to template
+  * Duties includes: conduct research and write publications
   * Supervisor: Prof. Guohao Shen
 
 <!--
@@ -42,13 +42,15 @@ Publications
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
+<!--
 Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
-  
+-->
+
 Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
@@ -58,3 +60,4 @@ Teaching
 Service and leadership
 ======
 * Leader, Bridges International, Hong Kong Polytechnic University
+* Volunteer, Christ Commission Fellowship (CCF) Hong Kong
