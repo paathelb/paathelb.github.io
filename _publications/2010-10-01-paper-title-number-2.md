@@ -1,13 +1,13 @@
 ---
-title: "Paper Title Number 2"
+title: "Conformal Set-based Human-AI Complementarity with Multiple Experts"
 collection: publications
-category: manuscripts
+category: conferences
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
+excerpt: ''
+date: 2025
+venue: '24th International Conference on Autonomous Agents and Multiagent Systems'
 slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
+paperurl: 'https://aamas2025.org/index.php/conference/program/accepted-papers/'
 citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 ---
 
