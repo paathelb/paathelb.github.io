@@ -52,7 +52,7 @@ More info about configuring Academic Pages can be found in [the guide](https://a
 
 I'm currently a Research Assistant at [HKUST Intelligent Transportation Systems Lab](https://sites.google.com/view/hkustits/home) led by Prof. Hong Lo. I am also affiliated with the [HKUST GREAT Smart Cities Institute](https://gsc.hkust.edu.hk/). I obtained my MPhil at HKUST advised by Prof. [Tong Zhang](https://tongzhang-ml.org/). Previously, I was also an RA at the Department of Applied Mathematics, PolyU HK, working with Prof. [Guohao Shen](https://ghshen1.github.io/). Broadly, my research interests are in applications of AI to engineering. Specifically, I am interested in transporation, computer vision, and uncertainty quantification.
 
-#### News
+## News
 - 2025-04-02 I will be working at the HKUST GREAT Smart Cities Institute in collaboration with the startup Suntec. The goal is to apply AI and ML tools to taxi profitability prediction.
 - 2024-12-16: A first-author paper is accepted at AAMAS 2025 (acceptance rate=25%).
 - 2024-01-31: A first-author work is accepted at ICRA 2024.
