@@ -53,13 +53,13 @@ More info about configuring Academic Pages can be found in [the guide](https://a
 I'm currently a Research Assistant at [HKUST Intelligent Transportation Systems Lab](https://sites.google.com/view/hkustits/home) led by Prof. Hong Lo. I am also affiliated with the [HKUST GREAT Smart Cities Institute](https://gsc.hkust.edu.hk/). I obtained my MPhil at HKUST advised by Prof. [Tong Zhang](https://tongzhang-ml.org/). Previously, I was also an RA at the Department of Applied Mathematics, PolyU HK, working with Prof. [Guohao Shen](https://ghshen1.github.io/). Broadly, my research interests are in applications of AI to engineering. Specifically, I am interested in transporation, computer vision, and uncertainty quantification.
 
 ## News
-- 2025-04-02 I will be working at the HKUST GREAT Smart Cities Institute in collaboration with the startup Suntec. The goal is to apply AI and ML tools to taxi profitability prediction.
-- 2024-12-16: A first-author paper is accepted at AAMAS 2025 (acceptance rate=25%).
-- 2024-01-31: A first-author work is accepted at ICRA 2024.
+- 2025-04-02 I will work at the HKUST GREAT Smart Cities Institute in collaboration with the startup _Suntec_ under the project "Improving Taxi & Driver Shift Operating Efficiency via a Next Generation Taxi Operating System" funded by Hong Kong [Smart Traffic Fund](https://stf.hkpc.org/cs-87-2403-ra/).
+- 2024-12-16: A first-author paper entitled "Conformal Set-based Human-AI Complementarity with Multiple Experts" is accepted at AAMAS 2025 as Full Paper (Oral Presentation) (acceptance rate=25%). Preprint version and code will be released soon.
+- 2024-01-31: A first-author work "MEDL-U: Uncertainty-aware 3D Automatic Annotation based on Evidential Deep Learning" is accepted at ICRA 2024. Our collaborator, Autowise, wrote a [post](https://autowise.ai/en/2024/05/13/autowise-icra2024-paper/) about our work.
 - 2023-12-30: I finished my MPhil CSE at HKUST.
 
 ### Hobbies
-I love reading books during commute times. Currently I am reading the following books:
+I love reading books while commuting. Currently I am reading the following books:
 - Thinking Fast and Slow
 - The Psychology of Money
 - The Elements of Programming Style
