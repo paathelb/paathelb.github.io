@@ -61,9 +61,9 @@ I'm currently a Research Assistant at [HKUST Intelligent Transportation Systems 
 ### Hobbies
 I love reading books while commuting. Currently I am reading the following books:
 - Thinking Fast and Slow
-- The Psychology of Money
 - The Elements of Programming Style
 - Called to Greatness
 
 Finished:
+- The Psychology of Money
 - Growing Deep in Faith
