@@ -62,11 +62,11 @@ I'm currently a Research Assistant at [HKUST Intelligent Transportation Systems 
 I love reading books while commuting. Currently I am reading the following books:
 - Zero to One
 - Relentless
+- Called to Greatness
 - The Structure of Scientific Revolutions
 - A Mind for Numbers
 - The Case for Faith
 - The Elements of Programming Style
-- Called to Greatness
 
 Finished:
 - Thinking Fast and Slow
