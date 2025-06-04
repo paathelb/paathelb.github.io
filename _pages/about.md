@@ -65,15 +65,16 @@ I'm currently a Research Assistant at [HKUST Intelligent Transportation Systems 
 
 ### Hobbies
 I love reading books while commuting. Currently I am reading the following books:
-- The Structure of Scientific Revolutions
-- Zero to One
-- A Mind for Numbers
-- The Case for Faith
-- Relentless
 - Called to Greatness
 - The Elements of Programming Style
 
 Finished:
+- The Structure of Scientific Revolutions
+- Co-Intelligence: Living and Working with AI
+- Zero to One
+- A Mind for Numbers
+- The Case for Faith
+- Relentless
 - Thinking Fast and Slow
 - The Psychology of Money
 - Growing Deep in Faith
