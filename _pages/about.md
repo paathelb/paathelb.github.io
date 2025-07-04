@@ -58,10 +58,10 @@ I'm currently a Research Assistant at [HKUST Intelligent Transportation Systems 
 - A paper on Transportation AI is accepted at the International Conference on Computer Vision (ICCV) 2025 Workshop. Preprint will be released soon.
 - A paper on Frequency Domain Uncertainty Quantification is accepted at the International Conference on Computer Vision (ICCV) 2025, Workshop on Advanced Perception for Autonomous Healthcare (APAH). Preprint will be released soon.
 -->
-- **2025-06-05:** Our AAMAS paper is now published at the [ACM Digital Library](https://dl.acm.org/doi/10.5555/3709347.3743792).
-- **2025-04-02:** I will work at the HKUST GREAT Smart Cities Institute in collaboration with [Suntec Innovations](https://www.suntec.app/) under the project "Improving Taxi & Driver Shift Operating Efficiency via a Next Generation Taxi Operating System" funded by [Hong Kong Smart Traffic Fund](https://stf.hkpc.org/cs-87-2403-ra/). We aim to use real-time data to give drivers AI assistance insights map which suggests locations with probable maximised trip profitability.
+- **2025-06-05:** Our AAMAS paper on conformal set-based human-AI complementarity is now published at the [ACM Digital Library](https://dl.acm.org/doi/10.5555/3709347.3743792).
+- **2025-04-02:** I started work at the HKUST GREAT Smart Cities Institute in collaboration with [Suntec Innovations](https://www.suntec.app/) under an AI project funded by [Hong Kong Smart Traffic Fund](https://stf.hkpc.org/cs-87-2403-ra/). We aim to use real-time data to give drivers AI assistance insights map which suggests locations with maximised trip profitability.
 - **2024-12-16:** A first-author paper entitled "Conformal Set-based Human-AI Complementarity with Multiple Experts" is accepted at [AAMAS 2025](https://aamas2025.org/) as Full Paper (Oral Presentation) (_acceptance rate = 25%_). Preprint version and code will be released soon.
-- **2024-01-31:** A first-author work "MEDL-U: Uncertainty-aware 3D Automatic Annotation based on Evidential Deep Learning" is accepted at ICRA 2024. Our collaborator, Autowise, wrote a [post](https://autowise.ai/en/2024/05/13/autowise-icra2024-paper/) about our work.
+- **2024-01-31:** A first-author work "MEDL-U: Uncertainty-aware 3D Automatic Annotation based on Evidential Deep Learning" is accepted at ICRA 2024. Our collaborator, Autowise, wrote a [blog post](https://autowise.ai/en/2024/05/13/autowise-icra2024-paper/) about our work.
 - **2023-12-30:** I finished my MPhil CSE at HKUST.
 
 ### Hobbies
