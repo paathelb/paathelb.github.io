@@ -50,19 +50,22 @@ For more info
 More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
 -->
 
-I'm currently a Research Assistant at [HKUST GREAT Smart Cities Institute](https://gsc.hkust.edu.hk/) led by Prof. [Hong Lo](https://cehklo.people.ust.hk/). I am also affiliated with the [HKUST Intelligent Transportation Systems Lab](https://sites.google.com/view/hkustits/home). Previously, I was also an RA at the Department of Applied Mathematics, PolyU HK, working with Prof. [Guohao Shen](https://ghshen1.github.io/). I obtained my MPhil at HKUST advised by Prof. [Tong Zhang](https://tongzhang-ml.org/) and B.S. Applied Math at the University of the Philippines. Broadly, my research interests are in the applications of AI to engineering and social problems. Specifically, I am interested in transportation, computer vision, human-AI interaction, and uncertainty quantification.
+I'm currently a Research Assistant at [HKUST GREAT Smart Cities Institute](https://gsc.hkust.edu.hk/) led by Prof. [Hong Lo](https://cehklo.people.ust.hk/). I am also affiliated with the [HKUST Intelligent Transportation Systems Lab](https://sites.google.com/view/hkustits/home). Previously, I was an RA at the Department of Applied Mathematics, PolyU HK, working with Prof. [Guohao Shen](https://ghshen1.github.io/). I obtained my MPhil at HKUST advised by Prof. [Tong Zhang](https://tongzhang-ml.org/) and B.S. Applied Mathematics at the University of the Philippines. Broadly, my research interests are in the applications of AI to engineering and social problems. Specifically, I am interested in transportation, computer vision, and uncertainty quantification.
 
 ## News
 <!--  
 - A paper is accepted at the 29th International Conference of Hong Kong Society for Transportation Studies.
-- A paper on Transportation AI is accepted at the International Conference on Computer Vision (ICCV) 2025 Workshop. Preprint will be released soon.
+- A paper on Transportation AI is accepted at AAAI 2026. Preprint will be released soon.
 - A paper on Frequency Domain Uncertainty Quantification is accepted at the International Conference on Computer Vision (ICCV) 2025, Workshop on Advanced Perception for Autonomous Healthcare (APAH). Preprint will be released soon.
 -->
-- **2025-06-05:** Our AAMAS paper on conformal set-based human-AI complementarity is now published at the [ACM Digital Library](https://dl.acm.org/doi/10.5555/3709347.3743792).
-- **2025-04-02:** I started work at the HKUST GREAT Smart Cities Institute in collaboration with [Suntec Innovations](https://www.suntec.app/) under an AI project funded by [Hong Kong Smart Traffic Fund](https://stf.hkpc.org/cs-87-2403-ra/). We aim to use real-time data to give drivers AI assistance insights map which suggests locations with maximised trip profitability.
+- **2025-06-05:** Our AAMAS paper on conformal set-based human-AI complementarity is now published at the [ACM Digital Library](https://dl.acm.org/doi/10.5555/3709347.3743792). Code is now available at this [github link](https://github.com/paathelb/conformal_hai_multiple) and the full paper with appendix can be viewed at [this link](https://arxiv.org/abs/2508.06997).
+- **2025-04-02:** I started work at the HKUST GREAT Smart Cities Institute in collaboration with [Suntec Innovations](https://www.suntec.app/) under an AI project funded by [Hong Kong Smart Traffic Fund](https://stf.hkpc.org/cs-87-2403-ra/). We aim to use real-time data to give drivers AI insights map which suggests locations with maximised trip profitability.
 - **2024-12-16:** A first-author paper entitled "Conformal Set-based Human-AI Complementarity with Multiple Experts" is accepted at [AAMAS 2025](https://aamas2025.org/) as Full Paper (Oral Presentation) (_acceptance rate = 25%_). Preprint version and code will be released soon.
 - **2024-01-31:** A first-author work "MEDL-U: Uncertainty-aware 3D Automatic Annotation based on Evidential Deep Learning" is accepted at ICRA 2024. Our collaborator, Autowise, wrote a [blog post](https://autowise.ai/en/2024/05/13/autowise-icra2024-paper/) about our work.
 - **2023-12-30:** I finished my MPhil CSE at HKUST.
+
+### Services
+- Reviewer (AAAI 2026)
 
 ### Hobbies
 I love reading books while commuting. Currently I am reading the following books:
