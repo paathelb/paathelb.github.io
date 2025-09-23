@@ -52,6 +52,9 @@ More info about configuring Academic Pages can be found in [the guide](https://a
 
 I'm currently a Research Assistant at [HKUST GREAT Smart Cities Institute](https://gsc.hkust.edu.hk/) led by Prof. [Hong Lo](https://cehklo.people.ust.hk/). I am also affiliated with the [HKUST Intelligent Transportation Systems Lab](https://sites.google.com/view/hkustits/home). Previously, I was an RA at the Department of Applied Mathematics, PolyU HK, working with Prof. [Guohao Shen](https://ghshen1.github.io/). I obtained my MPhil at HKUST advised by Prof. [Tong Zhang](https://tongzhang-ml.org/) and B.S. Applied Mathematics at the University of the Philippines. Broadly, my research interests are in probabilistic machine learning and ML model reliability and trust. Specifically, I am interested in uncertainty estimation in computer vision and other applications.
 
+
+
+
 ## News
 <!--  
 - A paper is accepted at the 29th International Conference of Hong Kong Society for Transportation Studies.
@@ -65,13 +68,16 @@ I'm currently a Research Assistant at [HKUST GREAT Smart Cities Institute](https
 - **2023-12-30:** I finished my MPhil CSE at HKUST.
 
 ### Services
-- Reviewer (AAAI 2026)
+- Program Committee Member (AAAI 2026)
 
 ### Hobbies
 I love reading books while commuting. Currently I am reading the following books:
+- The 80/20 Principle
+- The Lean Startup
+- Theory and Reality: An Introduction to the Philosophy of Science
+- Work Rules! Insights from Inside Google That Will Transform How You Live and Lead
 - The Logic of Scientific Discovery
 - Introduction to Mathematical Philosophy
-- The Lean Startup
 - Called to Greatness
 - The Elements of Programming Style
 
