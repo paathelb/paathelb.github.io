@@ -60,9 +60,9 @@ I'm currently a Research Assistant at [HKUST GREAT Smart Cities Institute](https
 - A paper is accepted at the 29th International Conference of Hong Kong Society for Transportation Studies.
 - A paper on Transportation AI is accepted at AAAI 2026. Preprint will be released soon.
 - A paper on Frequency Domain Uncertainty Quantification is accepted at the International Conference on Computer Vision (ICCV) 2025, Workshop on Advanced Perception for Autonomous Healthcare (APAH). Preprint will be released soon.
+- **2025-11-08:** Our work on Uncertainty Quantification for Biomedical Image Generation almost made it to AAAI 2026 (with 3 weak accepts and 2 weak rejects). Better luck next time!
 -->
 - **2025-11-17:** Our work on _Enhancing Trust in Taxi Zone Profit Predictions with Sequential Conformal Inference_ has been accepted at the [AAAI AI for Urban Planning Workshop 2026](https://ai-for-urban-planning.github.io/AAAI26-workshop/). See you in Singapore!
-- **2025-11-08:** Our work on Uncertainty Quantification for Biomedical Image Generation almost made it to AAAI 2026 (with 3 weak accepts and 2 weak rejects). Better luck next time!
 - **2025-06-05:** Our AAMAS paper on conformal set-based human-AI complementarity is now published in the [ACM Digital Library](https://dl.acm.org/doi/10.5555/3709347.3743792). The code is available on [GitHub](https://github.com/paathelb/conformal_hai_multiple), and you can read the full paper along with its appendix on [arXiv](https://arxiv.org/abs/2508.06997).
 - **2025-04-02:** I started work at the HKUST GREAT Smart Cities Institute in collaboration with [Suntec Innovations](https://www.suntec.app/) under an AI project funded by [Hong Kong Smart Traffic Fund](https://stf.hkpc.org/cs-87-2403-ra/). We aim to use real-time data to give drivers AI insights map which suggests locations with maximised trip profitability.
 - **2024-12-16:** A first-author paper entitled "Conformal Set-based Human-AI Complementarity with Multiple Experts" is accepted at [AAMAS 2025](https://aamas2025.org/) as Full Paper (Oral Presentation) (_acc. rate = 24.5%_). Preprint version and code will be released soon.
