@@ -72,6 +72,7 @@ I'm currently a Research Assistant at [HKUST GREAT Smart Cities Institute](https
 ### Services
 - Program Committee Member (AAAI 2026)
 - Reviewer (Transactions on Machine Learning Research)
+- Reviewer (IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2026)
 
 ### Hobbies
 I love reading books while commuting. Currently I am reading the following books:
