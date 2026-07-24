@@ -1,7 +1,7 @@
 ---
 title: 'A Data Scientist Interview Experience'
 date: 2025-12-24
-permalink: /posts/2012/08/blog-post-1/
+permalink: /posts/2012/08/blog-post-2/
 tags:
   - cool posts
   - category1
