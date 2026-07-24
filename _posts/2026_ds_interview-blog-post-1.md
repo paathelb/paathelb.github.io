@@ -1,3 +1,13 @@
+---
+title: 'A Data Scientist Interview Experience'
+date: 2025-12-24
+permalink: /posts/2012/08/blog-post-1/
+tags:
+  - cool posts
+  - category1
+  - category2
+---
+
 # A Data Scientist Interview Experience
 
 Two months ago, I received a rejection after Stage 2 (the Data Cleaning exercise) at a top-tier hedge fund. I wanted to share my overall experience reflecting on this journey. Over the past few months, I have been applying for various roles across different companies in Hong Kong. When I initially received the email from this firm, I was pleasantly surprised. Admittedly, I didn't know much about them at first. After some quick research, I realized they are a top-tier player in the industry.  
